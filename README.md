@@ -45,12 +45,16 @@ To get a local copy up and running, follow these simple steps:
 ### Installation
 1. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/MyArtGallery.git
+
+ ## Project Demo
+
+[![Watch the video]((https://drive.google.com/file/d/12CTCOj2vFkAPJw02N8nnBipxfqK8cPdh/view?usp=drive_link))]([https://www.example.com/path-to-your-video-file.mp4](https://drive.google.com/file/d/14vTov8cLptGObcKJj3NCMC4slx37uHxk/view?usp=drive_link))
 
 
 
 
-https://github.com/user-attachments/assets/26c7f19f-ea2b-4a46-bd75-7c1ce2074ccb
+
+
 
 
 
