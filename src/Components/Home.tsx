@@ -68,7 +68,7 @@ const Home: React.FunctionComponent = () => {
             if (order === "ASC") {
                 return a.title.toLowerCase().split('').join().localeCompare(b.title.toLowerCase().split('').join())
             } else {
-                return b.title.toLocaleLowerCase().split(' ')[0].localeCompare(a.title.toLocaleLowerCase().split(' ')[0])
+                return b.title.toLowerCase().split('').join().localeCompare(a.title.toLowerCase().split('').join())
             }
         })
 
